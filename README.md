@@ -1,1 +1,1 @@
-# Q3-EXTRA-Processo-Seletivo
+Terceira questão EXTRA do processo seletivo da InJunior, implementação de um sistema que escolha 5 valores inteiros e ordene-os em ordem crescente e os mostre seguidos de uma linha em branco. Por ultimo, mostre os valores na sequência em que foram inseridos.
